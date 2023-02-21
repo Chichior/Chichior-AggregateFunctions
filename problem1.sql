@@ -1,1 +1,1 @@
-SELECT SUM(salary) FROM employee;
+SELECT SUM(salary) FROM employee; --
